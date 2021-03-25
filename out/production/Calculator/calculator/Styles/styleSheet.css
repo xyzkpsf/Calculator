@@ -1,0 +1,22 @@
+.number-botton{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+
+.number-expression{
+    -fx-font-size: 35px;
+    -fx-font-weight: bold;
+}
+
+.number-expression-bottom{
+    -fx-font-size: 45px;
+    -fx-font-weight: bold;
+}
+
+.operator-button{
+    -fx-font-size: 10pt;
+}
+
+.background{
+    -fx-background-color: white;
+}
